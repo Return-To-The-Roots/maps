@@ -1,2 +1,2 @@
 # RTTR maps
-Contains official maps from Return To The Roots
+Contains official maps for Return To The Roots
